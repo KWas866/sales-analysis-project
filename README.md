@@ -23,10 +23,10 @@ This project is a PySpark-based workflow for analyzing sales data. It includes d
 ## 📌 Business Requirements
 The goal of this project is to provide valuable insights into sales performance by analyzing key trends and patterns. The business requirements include:
 
-✔️ Sales performance analysis – Identify top-performing categories, regions, and customer segments.
-✔️ Time-based filtering – Analyze sales trends over different time periods (weekly, monthly, yearly, previous year).
-✔️ Customer segmentation – Understand purchasing behavior across different customer groups.
-✔️ Geographical insights – Determine which locations generate the highest revenue.
+✔️ Sales performance analysis – Identify top-performing categories, regions, and customer segments.<br/>
+✔️ Time-based filtering – Analyze sales trends over different time periods (weekly, monthly, yearly, previous year).<br/>
+✔️ Customer segmentation – Understand purchasing behavior across different customer groups.<br/>
+✔️ Geographical insights – Determine which locations generate the highest revenue.<br/>
 ✔️ Operational efficiency – Analyze shipping times and order fulfillment trends to identify potential bottlenecks.
 
 ## ✨ **Features**  
